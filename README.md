@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Hessa | مرحباً، أنا هيسا
 
-<!--
-**hessa11599-commits/hessa11599-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Smart Devices & Mobile App Developer | مطورة تطبيقات الأجهزة الذكية 📱
 
-Here are some ideas to get you started:
+*Building creative products • Learning continuously*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👤 About Me / نبذة عني
+
+- 🎓 **Education:** Student in Smart Device Programming & Software Development
+- 📱 **Focus:** Android Application Development
+- 🛠️ **Tech Stack:** Android Studio, Java/Kotlin, Git & GitHub
+- 📫 **How to reach me:** [اكتبي بريدك الإلكتروني هنا]
+
+---
+
+### 🔗 Connect With Me / تواصل معي
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [GitHub](https://github.com/hessa11599-commits)
+
+
