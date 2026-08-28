@@ -11,7 +11,7 @@
 - 🎓 **Education:** Student in Smart Device Programming & Software Development
 - 📱 **Focus:** Android Application Development
 - 🛠️ **Tech Stack:** Android Studio, Java/Kotlin, Git & GitHub
-- 📫 **How to reach me:** [اكتبي بريدك الإلكتروني هنا]
+- 📫 **How to reach me:
 
 ---
 
