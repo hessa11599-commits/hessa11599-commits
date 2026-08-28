@@ -1,4 +1,3 @@
-# Hi 👋, I'm Hessa  |  مرحباً، أنا هيسا
-
+# Hi 👋, I'm Hessa  
 
 
