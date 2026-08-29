@@ -1,5 +1,5 @@
 
-# 🌸 أهلاً بك في صفحتي الشخصية!
+# أهلاً بك في صفحتي الشخصية 🌸
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A1ZmRxbHZrdWZ3bXZyeTlsdW9xeDF1MDlhcnVvaWhpOW5tdzVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
